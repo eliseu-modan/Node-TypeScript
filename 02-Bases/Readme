@@ -1,0 +1,14 @@
+
+// comandos
+// npm init or npm init -y
+// npm start production
+// npm run dev development
+// npm i nodemon
+
+
+//importante
+// Qualquer aplicação que contem package.json é considerada uma aplicação Node.js
+// package.json é o manifesto da aplicação
+//start é um comando especial para produção
+// dev é um comando customizado para desenvolvimento npm run dev
+
